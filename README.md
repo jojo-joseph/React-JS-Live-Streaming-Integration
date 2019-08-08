@@ -2,6 +2,5 @@
 Using Node JS, React JS RTSP URL Live streaming Integration
 
 
-##############################################################
 In Runnig Ubuntu also install then also we can get the stream
 >sudo apt-get install ffmpeg
