@@ -8,7 +8,10 @@ In Runnig Ubuntu also install ffmpeg package, then only we can get the stream
 
 ------------------------------------------------------------------------------------------------------------------------------
 Running=>
-Type the command in node js project by, >node app.js
+Type the command in node js project by, 
+>node app.js
+
+
 Then,
 Run the react project by typing
 >npm start
